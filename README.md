@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SAHIL LOHAR
-- 🔭 I’m currently working as UG Student at NIT Rourkela
+- 🔭 I’m currently an UG Student at NIT Rourkela
 - 🌱 I’m currently learning Web- Development ,DATA-Structure and algorithm
 - 💬 Ask me about Web- Development ,DATA-Structure and algorithm
 - 📫 How to reach me sanjudj7878@gmail.com
