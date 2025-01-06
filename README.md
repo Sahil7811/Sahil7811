@@ -6,7 +6,7 @@
 - 💬 **Ask me about**:  
   - Web Development  
   - Data Structures & Algorithms  
-- 📧 Reach me at **[sanjudj7878@gmail.com](mailto:sanjudj7878@gmail.com)**  
+- 📧 Reach me at **[sahilsanju7878@gmail.com](mailto:sahilsanju7878@gmail.com)**  
 
 ---
 
