@@ -97,9 +97,11 @@
 
 ## 🧾 **Profile Visits**  
 
-[![](https://visitcount.itsvg.in/api?id=Sahil7811&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)  
+![Profile Views](https://komarev.com/ghpvc/?username=Sahil7811&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
 
 <div align="center">  
   <b>Show some ❤️ by starring some repositories!</b>  
-</div>  
+</div> 
 
