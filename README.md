@@ -82,16 +82,17 @@
 
 ## 📊 GitHub Stats  
 
-<table align="center" width="100%">  
+<table style="margin: auto; width: 100%;">  
 <tr>  
   <td align="center">  
-    <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=Sahil7811&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>  
+    <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil7811&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"/>  
   </td>  
   <td align="center">  
-    <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil7811&theme=radical" alt="Profile Summary"/>  
+    <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil7811&theme=radical&cache_seconds=1800" alt="Profile Summary"/>  
   </td>  
 </tr>  
-</table>  
+</table>
+
 
 ---
 
